@@ -5,7 +5,6 @@ import Pillars from "@/components/home/Pillars";
 import Services from "@/components/home/Services";
 import AboutPreview from "@/components/home/AboutPreview";
 import Process from "@/components/home/Process";
-import Testimonial from "@/components/home/Testimonial";
 import Locations from "@/components/home/Locations";
 import CTA from "@/components/home/CTA";
 
@@ -19,7 +18,6 @@ export default function Home() {
       <Services />
       <AboutPreview />
       <Process />
-      <Testimonial />
       <Locations />
       <CTA />
     </>
