@@ -89,7 +89,7 @@ export default function Hero() {
         <div className="absolute inset-6 border border-clay/20 pointer-events-none z-10" />
 
         {/* Floating credential card */}
-        <div className="absolute bottom-10 left-0 -translate-x-1/4 z-20 bg-warm-white shadow-2xl p-6 w-56">
+        <div className="absolute bottom-6 left-4 md:bottom-10 md:left-0 md:-translate-x-1/4 z-20 bg-warm-white shadow-2xl p-6 w-56">
           <p className="font-body text-[10px] uppercase tracking-widest text-clay mb-1">Specialist in</p>
           <p className="font-display text-lg font-medium text-charcoal leading-tight">
             Eating Disorder Recovery

@@ -51,15 +51,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .marquee-forward {
-  animation: marquee-forward 30s linear infinite;
+  animation: marquee-forward 60s linear infinite;
 }
 
 .marquee-reverse {
-  animation: marquee-reverse 30s linear infinite;
+  animation: marquee-reverse 60s linear infinite;
 }
 
 .marquee-mobile {
-  animation: marquee-forward 30s linear infinite;
+  animation: marquee-forward 55s linear infinite;
 }
 
 @layer utilities {
